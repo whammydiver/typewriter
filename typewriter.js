@@ -9,3 +9,4 @@ for (const char of sentence) {
   timerCount += 50;
   typewriter(char, timerCount)
 };
+process.stdout.write('\n');
